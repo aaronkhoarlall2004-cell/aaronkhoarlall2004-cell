@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hey there I'm Aaron👋<br>A software engineering student based in the Netherlands.<br><br>💻 I build applications that solve real-world problems<br>🚀 Working on full-stack projects and improving my software design skills<br>🏀 Gym, basketball, and coding pretty much sum me up<br>Being structured is part of the lifestyle<br><br>If I have an idea, I’ll try to build it.
+Hey there I'm Aaron👋<br>A software/full-stack developer based in the Netherlands.<br><br>💻 I build applications that solve real-world problems<br>🚀 Working on full-stack projects and improving my software design skills<br>🏀 Gym, basketball, and coding pretty much sum me up<br>Being structured is part of the lifestyle<br><br>If I have an idea, I’ll try to build it.
 
 
 ## 🌐 Socials:
