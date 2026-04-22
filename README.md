@@ -3,7 +3,7 @@ Hey there I'm Aaron👋<br>A software engineering student based in the Netherlan
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.just.ronny) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aaron-Khoarlall) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.just.ronny) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Aaron-Khoarlall](https://www.linkedin.com/in/aaron-khoarlall-b9221334a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
 
 ## 💻 Tech Stack:
 
